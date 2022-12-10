@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/Gun.h
+string
+-
+
+../include/Soldier.h
+string
+-
+Gun.h
+../include/Gun.h
+
+/home/book/yuhu_study/c++/main.cpp
+Gun.h
+/home/book/yuhu_study/c++/Gun.h
+Soldier.h
+/home/book/yuhu_study/c++/Soldier.h
+iostream
+/home/book/yuhu_study/c++/iostream
+
+/home/book/yuhu_study/c++/src/Gun.cpp
+Gun.h
+/home/book/yuhu_study/c++/src/Gun.h
+iostream
+/home/book/yuhu_study/c++/src/iostream
+
+/home/book/yuhu_study/c++/src/Soldier.cpp
+Soldier.h
+/home/book/yuhu_study/c++/src/Soldier.h
+

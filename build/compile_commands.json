@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/book/yuhu_study/c++/build",
+  "command": "/usr/bin/g++   -I/home/book/yuhu_study/c++/include   -g -o2 -Wall -g   -o CMakeFiles/my_cmake_exe.dir/main.cpp.o -c /home/book/yuhu_study/c++/main.cpp",
+  "file": "/home/book/yuhu_study/c++/main.cpp"
+},
+{
+  "directory": "/home/book/yuhu_study/c++/build",
+  "command": "/usr/bin/g++   -I/home/book/yuhu_study/c++/include   -g -o2 -Wall -g   -o CMakeFiles/my_cmake_exe.dir/src/Gun.cpp.o -c /home/book/yuhu_study/c++/src/Gun.cpp",
+  "file": "/home/book/yuhu_study/c++/src/Gun.cpp"
+},
+{
+  "directory": "/home/book/yuhu_study/c++/build",
+  "command": "/usr/bin/g++   -I/home/book/yuhu_study/c++/include   -g -o2 -Wall -g   -o CMakeFiles/my_cmake_exe.dir/src/Soldier.cpp.o -c /home/book/yuhu_study/c++/src/Soldier.cpp",
+  "file": "/home/book/yuhu_study/c++/src/Soldier.cpp"
+}
+]
